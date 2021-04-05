@@ -1,2 +1,2 @@
-# github.jbjus23
+# jbjus23
 # Hi there 
